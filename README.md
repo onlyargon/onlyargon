@@ -1,6 +1,6 @@
 ## Hi, I'm Aruna Wickramasinghe AKA Argon 👨🏻‍💻
 ---
-In ♥️  with 
+In ❤️  with 
 
 📱 Xamarin
 ☁️ .Net Core / Azure 

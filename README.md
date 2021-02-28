@@ -2,9 +2,9 @@
 ---
 In ❤️  with 
 
-- 📱 Xamarin
-- ☁️ .Net Core / Azure 
-- 🔥 Angular
+- 📱  Xamarin
+- ☁️  .Net Core / Azure 
+- 🔥  Angular
 
 also passionate about js (expressjs / nodejs)
 

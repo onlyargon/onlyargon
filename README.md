@@ -1,9 +1,14 @@
-### Hi, I'm Aruna Wickramasinghe AKA Argon 👋
+## Hi, I'm Aruna Wickramasinghe AKA Argon 👨🏻‍💻
+---
+In ♥️  with 
+
+📱 Xamarin
+☁️ .Net Core / Azure 
+🔥 Angular
+
+also passionate about js (expressjs / nodejs)
 ---
 
-Currently working as a full-stack developer with love of angular and .net core
-
----
 
 
 

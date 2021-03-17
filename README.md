@@ -7,7 +7,7 @@ In ❤️  with
 - 🔥  Angular
 
 also passionate about js (expressjs / nodejs)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=onlyargon.onlyargon)
+-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=onlyargon.onlyargon)
 
 
 

@@ -5,6 +5,7 @@ In ❤️  with
 - 📱  Xamarin
 - ☁️  .Net Core / Azure 
 - 🔥  Angular
+- 🚀 Svelte
 
 also passionate about js (expressjs / nodejs)
 ---

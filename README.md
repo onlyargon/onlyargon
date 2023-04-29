@@ -1,4 +1,4 @@
-## Hi, I'm Aruna Wickramasinghe AKA Argon 👨🏻‍💻
+## Hi, I'm Aruna aka (Argon) 👨🏻‍💻
 ---
 
 I'm currently working with 
@@ -7,9 +7,11 @@ I'm currently working with
   - 😎 .net maui / xamarin.forms
 
 I was working also with
-  - .net core / web api / rest api - whatever 
-  - nodejs / expressjs - wish i had more chances to use it
-  - mongodb / firebase / mysql / mssql - good old days
+  - .net core / web api / rest api - whatever 😌
+  - nodejs / expressjs - wish i had more chances to use it 🥺
+  - mongodb / firebase / mysql / mssql - good old days 🤓
+
+heres my [resume]([https:](https://onlyargon.github.io/resume/)) if you like to see. btw it was developed with angular but planing to do much better in svelte ❤️
 
 ---
 ![Argons's Github Stats](https://github-readme-stats.vercel.app/api?username=onlyargon&count_private=true&show_icons=true&include_all_commits=true)

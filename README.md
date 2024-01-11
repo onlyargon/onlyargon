@@ -1,5 +1,4 @@
 ## Hi, I'm Aruna aka (Argon) 👨🏻‍💻
----
 
 I'm currently working with 
   - 🔥 sveltekit

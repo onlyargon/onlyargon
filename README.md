@@ -2,8 +2,9 @@
 ---
 
 I'm currently working with 
+  - 🔥 sveltekit
+  - ⚡️ react native
   - 👨🏻‍💻 angular
-  - 🔥 svelte
   - 😎 .net maui / xamarin.forms
 
 I was working also with

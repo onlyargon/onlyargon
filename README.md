@@ -8,7 +8,7 @@ I'm currently working with
   - 🐍 python
   - 😎 .net maui (C#)
 
-heres my [resume](https://dhc5u8b4iht6q.cloudfront.net/websites/arunaw/Aruna_Wickramasinghe.pdf) if you like to see.
+[visit me](https://arunaw.com)
 
 
 
